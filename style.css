@@ -73,7 +73,7 @@ button{
 }
 .destinations{
     height:100vh;
-    margin-bottom: 20%;
+    margin-bottom: 15%;
     margin-top: 50px;
 }
 .destinations h1{
@@ -112,7 +112,7 @@ button{
 }
 .features{
     margin-top: 100px;
-    margin-bottom: 40px;
+    margin-bottom: 100px;
 }
 .card4{
     margin-top: 50px;
@@ -140,7 +140,8 @@ button{
     margin-left: 45px;
 }
 .blog{
-    margin-top: 100px;
+    margin-top: 150px;
+    margin-bottom: 200px;
 }
 .blog p{
     text-align: justify;
